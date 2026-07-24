@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.box {
+    width: 800px;
+    height: 800px;
+    border:30px solid gray;
+}
+.row {
+    height: 100px;
+    width: 800px;
+    display: flex;
+}
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    text-align: center;
+    font-size: 80px;
+}
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    text-align: center;
+    font-size: 80px;
+    color:white;
+}
+h1{
+    font-size :100px;
+    text-align: center;
+    font-family: cooper black;
+}
